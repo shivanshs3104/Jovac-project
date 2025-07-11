@@ -1,8 +1,8 @@
 # Jovaac Project
 
-Welcome to my awesome project!
+Welcome to my project!
 
-✅ [My Portfolio](https://example.com)
+
 
 ❌ [Broken Link](https://thissitedoesnotexist.fake)
 [Broken Link Test](https://definitelydoesnotexist-9999.com)
